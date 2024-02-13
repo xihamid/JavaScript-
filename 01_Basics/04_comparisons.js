@@ -11,6 +11,9 @@
 // console.log("2"==2); // it will auto get data type 
 // console.log("2"===2); // stricly check data type and compare
 
+const abc='Hamid-dot-com';
+console.log(abc.split('-'));
+
 
 // --------------------- Data Types
 
