@@ -13,3 +13,5 @@ const generateFakeData = () => {
 //   console.log(data);
 
 console.log(count(data.cgpa));
+
+
